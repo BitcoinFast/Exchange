@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/anywhere%20on%20the%20Internet.%20Edit%20me!/static/css/main.3766cc8d.chunk.css",
+    "main.js": "/anywhere%20on%20the%20Internet.%20Edit%20me!/static/js/main.dffc736e.chunk.js",
+    "main.js.map": "/anywhere%20on%20the%20Internet.%20Edit%20me!/static/js/main.dffc736e.chunk.js.map",
+    "runtime-main.js": "/anywhere%20on%20the%20Internet.%20Edit%20me!/static/js/runtime-main.98c3ba2d.js",
+    "runtime-main.js.map": "/anywhere%20on%20the%20Internet.%20Edit%20me!/static/js/runtime-main.98c3ba2d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/anywhere%20on%20the%20Internet.%20Edit%20me!/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bc22c9d7.chunk.js": "/anywhere%20on%20the%20Internet.%20Edit%20me!/static/js/2.bc22c9d7.chunk.js",
+    "static/js/2.bc22c9d7.chunk.js.map": "/anywhere%20on%20the%20Internet.%20Edit%20me!/static/js/2.bc22c9d7.chunk.js.map",
+    "index.html": "/anywhere%20on%20the%20Internet.%20Edit%20me!/index.html",
+    "precache-manifest.93af6bd863fceec7377021282c703fd0.js": "/anywhere%20on%20the%20Internet.%20Edit%20me!/precache-manifest.93af6bd863fceec7377021282c703fd0.js",
+    "service-worker.js": "/anywhere%20on%20the%20Internet.%20Edit%20me!/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/anywhere%20on%20the%20Internet.%20Edit%20me!/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.3766cc8d.chunk.css.map": "/anywhere%20on%20the%20Internet.%20Edit%20me!/static/css/main.3766cc8d.chunk.css.map",
+    "static/js/2.bc22c9d7.chunk.js.LICENSE.txt": "/anywhere%20on%20the%20Internet.%20Edit%20me!/static/js/2.bc22c9d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98c3ba2d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bc22c9d7.chunk.js",
+    "static/css/main.3766cc8d.chunk.css",
+    "static/js/main.dffc736e.chunk.js"
+  ]
+}
